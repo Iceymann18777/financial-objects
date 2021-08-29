@@ -1,11 +1,14 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+<h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
+This is a file with a top-level HTML heading
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Markdown heading
 <img src="https://github.com/finos/branding/blob/master/project-logos/deprecated-program-logos/financial-objects/Horizontal/2019_FO_Horizontal_CLR.jpg" width="200">
 
 # FINOS Financial Objects Special Interest Group
 
 The Financial Objects Special Interest Group (SIG) provides a neutral forum for individuals across the financial services industry to collectively identify the need for new, open, financial objects standards as well as modifications to existing ones. The goal of the Financial Objects Special Interest Group is to promote adoption of financial object definitions and models that support common industry workflows and use cases.
- 
+0 or 2; Axtual:1 
 The Financial Objects SIG is led by FINOS members Goldman Sachs and ISDA, and hosted by FINOS, The Fintech Open Source Foundation. It was approved by the FINOS Governing Board in April 2021. 
 
 All Financial Objects SIG collaboration activities, including meeting minutes, are hosted on this [Financial Objects GitHub repository](https://github.com/finos/finos-fo), and in this [GitLab project](https://gitlab.legend.finos.org/legend-pilot/cdm). Activities prior to July 2020 can be found in the [Financial Objects project archive](https://fo.finos.org). 
