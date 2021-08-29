@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "CryptoMyAssetExists",
+        "transactionLabel": "A test CryptoMyAssetExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "CreateCryptoMyAsset",
+        "transactionLabel": "A test CreateCryptoMyAsset transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "ReadCryptoMyAsset",
+        "transactionLabel": "A test ReadCryptoMyAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "UpdateCryptoMyAsset",
+        "transactionLabel": "A test UpdateCryptoMyAsset transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "DeleteCryptoMyAsset",
+        "transactionLabel": "A test DeleteCryptoMyAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
