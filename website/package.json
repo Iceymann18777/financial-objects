@@ -9,11 +9,23 @@
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
     "rename-version": "docusaurus-rename-version",
-    "typedoc": "./run-typedoc.sh"
+    "typedoc": "./run-typedoc.sh",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "devDependencies": {
+ snyk-fix-6582bcd25d5cb871595210d91fdc0884
+    "docusaurus": "1.14.7",
+    "typedoc": "0.21.10",
+    "typedoc-plugin-markdown": "2.1.1"
+  },
+  "snyk": true,
+  "dependencies": {
+    "@snyk/protect": "latest"
+
     "docusaurus": "1.12.0",
     "typedoc": "0.15.3",
     "typedoc-plugin-markdown": "3.11.12"
+ master
   }
 }
