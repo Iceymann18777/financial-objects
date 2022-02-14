@@ -1,5 +1,3 @@
-<h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
-
 This is a file with a top-level HTML heading
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # Markdown heading
